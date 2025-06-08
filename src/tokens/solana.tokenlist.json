@@ -4,5 +4,8 @@
   "name": "The. America. Party.",
   "symbol": "TAP",
   "decimals": 9,
-  "logoURI": "https://github.com/ByFlown/token-list/blob/main/assets/mainnet/9STa9xe66LWYCb9bcGdUXhJ2DB8yks76nhtHZjjDkE1C/logo.png"
+  "logoURI": "https://raw.githubusercontent.com/ByFlown/token-list/refs/heads/main/assets/mainnet/9STa9xe66LWYCb9bcGdUXhJ2DB8yks76nhtHZjjDkE1C/logo.png",
+  "extension": {
+    "website": "https://memecoin21.netlify.app"
+  }
 }
